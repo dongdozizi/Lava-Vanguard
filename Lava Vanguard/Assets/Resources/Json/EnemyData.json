@@ -1,0 +1,56 @@
+{
+    "Enemy_01": {
+        "ID": "Enemy_01",
+        "Name": "Flying Danger",
+        "Health": 3,
+        "Coin": 1,
+        "Speed": 2,
+        "MaxHealth": 3,
+        "Attack": 1
+    },
+    "Enemy_02": {
+        "ID": "Enemy_02",
+        "Name": "Guard",
+        "Health": 3,
+        "Coin": 1,
+        "Speed": 2,
+        "MaxHealth": 3,
+        "Attack": 1
+    },
+    "Enemy_03": {
+        "ID": "Enemy_03",
+        "Name": "Split_Guard",
+        "Health": 6,
+        "Coin": 2,
+        "Speed": 2,
+        "MaxHealth": 6,
+        "Attack": 1
+    },
+    "Enemy_Boss_01": {
+        "ID": "Enemy_Boss_01",
+        "Name": "Enemy_Boss_01",
+        "Health": 10,
+        "Coin": 30,
+        "Speed": 3,
+        "MaxHealth": 10,
+        "Attack": 1
+    },
+    "Enemy_Boss_Bullet": {
+        "ID": "Enemy_Boss_Bullet",
+        "Name": "Enemy_Boss_Bullet",
+        "Health": 0,
+        "Coin": 0,
+        "Speed": 3,
+        "MaxHealth": 0,
+        "Attack": 1
+    },
+    "Enemy_Boss_02": {
+        "ID": "Enemy_Boss_02",
+        "Name": "Enemy_Boss_02",
+        "Health": 150,
+        "Coin": 30,
+        "Speed": 3,
+        "MaxHealth": 150,
+        "Attack": 1
+    }
+}

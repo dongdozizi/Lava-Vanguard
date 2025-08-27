@@ -1,0 +1,14 @@
+{
+    "CardDatas": [
+        {
+            "ID": 0,
+            "CardID": "Card_Empty",
+            "Level": 1
+        },
+        {
+            "ID": 0,
+            "CardID": "Card_Empty",
+            "Level": 1
+        }
+    ]
+}
